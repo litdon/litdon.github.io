@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'È¤ÃÈÈíÌÇÌå';
+    src:url(../font/×Ö»ê64ºÅ-ÃÈÈ¤ÈíÌÇÌå.ttf);
+}
+
+.content{
+    background-color:rgb(249, 238, 209);
+    min-height: 300px;
+    padding: 20px 100px 20px 100px;
+    font-family: 'È¤ÃÈÈíÌÇÌå';
+    font-size: 30px;
+    color:rgb(213, 48, 40);
+}
